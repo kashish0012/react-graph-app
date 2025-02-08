@@ -1,0 +1,5 @@
+.undo-redo-controls{
+    display: flex;
+    flex-direction: row;
+    gap: 20px;
+}
